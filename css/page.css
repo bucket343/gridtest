@@ -1,0 +1,20 @@
+* {
+    margin: 0; padding: 0;
+}
+html, body, div.page {
+    height: 100%;
+}
+
+div.page {
+    background: red;
+}
+
+div.grid {
+    height: 90%;
+    background: green;
+}
+
+div.buttons {
+    height: 10%;
+    background: blue;
+}
